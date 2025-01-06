@@ -1,4 +1,4 @@
-# 🌟Prédiction des Prix de Location avec Apprentissage Automatique 🏠
+# 🌟Prédiction de prix de location avec Apprentissage Automatique 🏠
 
 ## Description du Projet
 Ce projet de science des données vise à prédire les prix de location de logements en France en utilisant des techniques d'apprentissage automatique avancées. En combinant des modèles tels que XGBoost, Lasso, ElasticNet et d'autres techniques d'arbres décisionnels, nous cherchons à offrir des prédictions précises et efficaces sur les prix de location.
