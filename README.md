@@ -34,11 +34,11 @@ XGBoost a largement surpassé tous les autres modèles avec une performance exce
 
 - ****Langage**** : Python 🐍
 - ****Bibliothèques**** :
-- ****pandas**** 📊
-- ****NumPy**** 🔢
-- ****XGBoost**** 🌳
-- ****scikit-learn**** 🔧
-- ****Optuna**** 🔍
+    > ****pandas**** 📊
+    > ****NumPy**** 🔢
+    > ****XGBoost**** 🌳
+    > ****scikit-learn**** 🔧
+    > ****Optuna**** 🔍
 - ****Plateforme**** : vast.ai 💻 (GPU Nvidia RTX 2080 Ti, 16 Go de RAM)
 
 
